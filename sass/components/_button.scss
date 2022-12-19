@@ -12,6 +12,16 @@
 		font-weight: 700;
 		border-width: 2px;
 		border-style: solid;
+
+		@include respond(tab-land) {
+			padding: 1.5rem 3rem;
+			font-size: 1.5rem;
+		}
+
+		@include respond(phone) {
+			padding: 1rem 2rem;
+			font-size: 1.2rem;
+		}
 	}
 
 	&:active,
