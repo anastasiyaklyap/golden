@@ -1,8 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="72.24" height="72.24" viewBox="0 0 72.24 72.24">
-  <g id="Group_3" data-name="Group 3" transform="translate(-993.84 -963.19)">
-    <g id="Circle-3" transform="translate(996.84 966.19)" fill="#fff" stroke="#fed136" stroke-linejoin="round" stroke-width="3">
-      <circle cx="33.12" cy="33.12" r="33.12" stroke="none"/>
-      <circle cx="33.12" cy="33.12" r="34.62" fill="none"/>
+  <g id="Group_5" data-name="Group 5" transform="translate(-993.84 -963.19)">
+    <g id="Group_3" data-name="Group 3">
+      <g id="Circle-3" transform="translate(996.84 966.19)" fill="#fff" stroke="#fed136" stroke-linejoin="round" stroke-width="3">
+        <circle cx="33.12" cy="33.12" r="33.12" stroke="none"/>
+        <circle cx="33.12" cy="33.12" r="34.62" fill="none"/>
+      </g>
     </g>
+    <path id="Icon-Locked" d="M1040.19,1015.96h-21a3.5,3.5,0,0,1-3.5-3.5V999.63a3.5,3.5,0,0,1,3.5-3.5h1.162V986.8c0-4.5,4.187-8.167,9.333-8.167s9.333,3.664,9.333,8.167v9.33h1.173a3.5,3.5,0,0,1,3.5,3.5v12.83A3.5,3.5,0,0,1,1040.19,1015.96Zm-10.51-16.33a4.671,4.671,0,0,0-2.33,8.718v1.792a2.333,2.333,0,0,0,2.33,2.33h.01a2.333,2.333,0,0,0,2.33-2.33v-1.8a4.671,4.671,0,0,0-2.34-8.713Zm0-16.331c-2.573,0-4.667,1.57-4.667,3.5v8.166a2.714,2.714,0,0,0,.266,1.165h8.8a2.712,2.712,0,0,0,.266-1.165V986.8C1034.351,984.87,1032.258,983.3,1029.685,983.3Z" fill="#fed136"/>
   </g>
 </svg>
