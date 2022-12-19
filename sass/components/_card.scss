@@ -1,0 +1,33 @@
+.card {
+	background-color: $color-neutral-1;
+	margin-bottom: 5rem;
+
+	&__image {
+		img {
+			display: block;
+			width: 100%;
+		}
+	}
+
+	&__details {
+		padding: 2rem 0;
+	}
+
+	&__details-text {
+		span {
+			display: block;
+		}
+	}
+
+	&__details-text--bold {
+		color: $color-primary-2;
+		font-size: 1.8rem;
+		font-weight: 700;
+		line-height: 2.2rem;
+	}
+
+	&__details--italic {
+		font-style: italic;
+		line-height: 1.7rem;
+	}
+}
