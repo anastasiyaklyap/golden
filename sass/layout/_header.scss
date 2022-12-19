@@ -1,0 +1,16 @@
+.header {
+	height: 50vw;
+	background-image: linear-gradient(rgba(black, 0.65), rgba(black, 0.65)),
+		url('/images/background-image.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: relative;
+
+	&__container {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		text-align: center;
+	}
+}
